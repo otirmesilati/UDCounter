@@ -1,0 +1,18 @@
+#panel {
+  text-align: center;
+  color: plum;
+}
+#upbtn {
+  text-align: center;
+  background: rgb(228, 117, 43);
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+#downbtn {
+  text-align: center;
+  background: rgb(228, 117, 43);
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
